@@ -2,8 +2,8 @@
 ### This repository contains my detailed analysis of investment and finance-related data science projects.
 ### These projects are written and presented as Jupyter Notebooks (Python 3), and each link is followed by a short description of project goals, contributions, and dependencies used.
 
-## Projects
-### Stock price Prediction for Top American Stocks- FAANMG
+# Projects
+## Stock price Prediction for Top American Stocks- FAANMG
 
 1. Performs complete comparisons of competitive strategy, financial strength, growth potential, and valuation of two companies through fundamental and technical analysis.
 2. Wrote data parser and reader to download 10-Q and 10-K SEC filings and store them in pandas DataFrame, as well as scripts to append certain business performance metrics for trend analysis.
